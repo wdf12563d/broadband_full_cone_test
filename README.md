@@ -31,3 +31,5 @@
 ```bash
 # 上传 vps_echo.py 到VPS
 python3 vps_echo.py
+
+可使用工具 https://p1ng.net/check-udp 来检测
