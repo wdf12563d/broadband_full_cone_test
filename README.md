@@ -32,3 +32,7 @@
 python3 vps_echo.py
 
 可使用工具 https://p1ng.net/check-udp 来检测
+
+### 2. 服务端(你的电脑)
+直接使用python运行nat_tester.py,请注意修改原脚本内的ip地址,更改为您vps的ip地址
+端口和ip，可通过vps的回声监测得知
